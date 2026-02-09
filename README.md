@@ -82,8 +82,12 @@ It couldn't be released on Chrome Web Store due to $5 registration fees I can't 
 
 
 ![Screenshot 1](Assets/Screenshot1.png)
+
 ![Screenshot 2](Assets/Screenshot2.png)
+
 ![Screenshot 3](Assets/Screenshot3.png)
+
 ![Screenshot 4](Assets/Screenshot4.png)
+
 
 
