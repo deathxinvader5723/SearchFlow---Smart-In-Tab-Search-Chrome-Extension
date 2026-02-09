@@ -19,11 +19,11 @@ No tab switching. No copy-paste loops.
 
 # Key Features
 
-*🔍 Search selected text instantly
-*🧭 In-tab side panel (no new tabs)
-*⚡ Fast and lightweight
-*📚 Perfect for studying, research, and reading
-🖱️ Movable handle to avoid blocking content
+* 🔍 Search selected text instantly
+* 🧭 In-tab side panel (no new tabs)
+* ⚡ Fast and lightweight
+* 📚 Perfect for studying, research, and reading
+* 🖱️ Movable handle to avoid blocking content
 
 # Supported Searches
 
